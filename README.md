@@ -1,4 +1,4 @@
-# hello-world
-test github
+This repo contains some python codes that I tried for fun
 
-Coding is fun. Web development is fun. :)
+List:
+1. Solving_9x9_Sudoku 
